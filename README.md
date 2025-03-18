@@ -4,12 +4,13 @@
 # INSTRUMENTO DE EVALUACIÓN ORDINARIO
 ## PARTE TEÓRICA
 ### (INDIVIDUAL)
-![Captura de pantalla 2025-03-03 221113](https://github.com/user-attachments/assets/940269ea-9cd6-4376-9908-88757366d985)
-![Captura de pantalla 2025-03-03 213236](https://github.com/user-attachments/assets/fc6edb6b-1929-4a35-9921-52e5c35bc9cf)
-![Captura de pantalla 2025-03-03 211755](https://github.com/user-attachments/assets/97774f3c-5f7d-47ca-bdf1-d1a40ca7267b)
-![Captura de pantalla 2025-03-03 210110](https://github.com/user-attachments/assets/0eb54711-b6cd-4908-b6c6-10bc31eae939)
-![Captura de pantalla 2025-03-03 203957](https://github.com/user-attachments/assets/ca4a6a5e-767b-43f1-9640-577c998595df)
 
+
+![Captura de pantalla 2025-03-18 103938](https://github.com/user-attachments/assets/0ec5e1c4-d25f-44fd-a91a-67c6158d67c7)
+![Captura de pantalla 2025-03-18 103608](https://github.com/user-attachments/assets/d0ea8af3-1ed0-4ea4-a475-9b3fb1d62123)
+![Captura de pantalla 2025-03-18 103720](https://github.com/user-attachments/assets/615b18b4-c9fc-4e71-90d1-a9ea5e078a2c)
+![Captura de pantalla 2025-03-18 103824](https://github.com/user-attachments/assets/2220f67c-8123-493f-9b13-8361843e7f02)
+![Captura de pantalla 2025-03-18 103857](https://github.com/user-attachments/assets/9b368349-8282-4666-9750-328d877ecd4d)
 
 
 ## PARTE PRÁCTICA
